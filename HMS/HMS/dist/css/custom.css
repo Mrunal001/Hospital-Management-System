@@ -1,0 +1,18 @@
+.radio_btn{display: flex;
+padding-top: 6px;}
+.female_btn {
+    margin-left: 15px;
+}
+.not_approved_btn {
+    background: #F7B9BE;
+    color: #fff;
+    padding: 10px;
+}
+.approved_btn {
+    background: #28B779;
+    color: #fff;
+    padding: 10px;
+}
+.dashboard_heading{
+	color: #fff;
+}
